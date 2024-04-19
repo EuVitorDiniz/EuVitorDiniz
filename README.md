@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hi! My name is 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Vitor Diniz 👋</a>
+    <a href="https://www.linkedin.com/in/vitor-diniz-8b2114284/">Vitor Diniz 👋</a>
   </h1>
 
 <div align="center">
@@ -27,11 +27,8 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EuVitorDiniz/EuVitorDiniz/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+
